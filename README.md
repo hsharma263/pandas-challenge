@@ -1,1 +1,2 @@
 # pandas-challenge
+The following code is an analysis of video game purchases. Using the Pandas library and JupyterNotebook, data is analyzed implementing basic calculations to binning and sorting of results. In the conclusion.txt file you will find some observations of trends in the data.
